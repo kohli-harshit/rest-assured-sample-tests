@@ -1,0 +1,778 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 100,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LtA6DwAAQBAJ",
+   "etag": "ZdBJpwT2vQw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LtA6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Queen Victoria",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "The Queen of Great Britain and Ireland for 63 years, the mother of nine children and grandmother to 42, Queen Victoria’s life was one of magnificent proportions. Victoria’s childhood was difficult and lonely but from the time she took the throne ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781537586007"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1537586009"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LtA6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LtA6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=LtA6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LtA6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LtA6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LtA6DwAAQBAJ&rdid=book-LtA6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LtA6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YtA6DwAAQBAJ",
+   "etag": "1CGaGLR5+t8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YtA6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Thomas Jefferson",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "At a White House dinner in 1962 honoring the Nobel Prize winners of the Western Hemisphere, President John Kennedy greeted them by saying: “I want to tell you how welcome you are to the White House. I think this is the most extraordinary ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781534612037"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1534612033"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YtA6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YtA6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=YtA6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YtA6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YtA6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YtA6DwAAQBAJ&rdid=book-YtA6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YtA6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YNA6DwAAQBAJ",
+   "etag": "T6yrKMzL62k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YNA6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Benjamin Franklin",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "Founding Father Benjamin Franklin came from humble beginnings to take his place in the annals of history as one of the most celebrated Americans ever to stand on the world stage. The Boston apprentice who ran away because of his brother’s ill ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781537393018"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1537393014"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YNA6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YNA6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=YNA6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YNA6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YNA6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YNA6DwAAQBAJ&rdid=book-YNA6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YNA6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ofwtDwAAQBAJ",
+   "etag": "32jN73mSYXc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ofwtDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Woodrow Wilson",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "publishedDate": "2017-01-22",
+    "description": "Before Woodrow Wilson was president of the United States, he was the president of Princeton University and the only occupant of the White House to hold a PhD. But before he became a university professor, he was a twelve-year old boy who didn’t ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781540744531"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1540744531"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ofwtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ofwtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=ofwtDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ofwtDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ofwtDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ofwtDwAAQBAJ&rdid=book-ofwtDwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ofwtDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MtA6DwAAQBAJ",
+   "etag": "VVQIM1oZ9RI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MtA6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Benedict Arnold",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "Benedict Arnold: a name that has become synonymous with betrayal. However, this wasn’t always the case. At one time he was General (and future first President) George Washington’s trusted advisor in the struggle against the British. What caused ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781520892924"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1520892926"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MtA6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MtA6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=MtA6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MtA6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MtA6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MtA6DwAAQBAJ&rdid=book-MtA6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MtA6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UPo6DwAAQBAJ",
+   "etag": "qRnVN8gLIsI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UPo6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "John F. Kennedy",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "John F. Kennedy is the president that everyone knows. He was a rich man’s son, an athlete, a war hero, a ladies’ man, an author, a president, his face rendered forever young because the last time Americans saw him, he was riding in a convertible ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781520656007"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1520656009"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UPo6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UPo6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=UPo6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UPo6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UPo6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UPo6DwAAQBAJ&rdid=book-UPo6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UPo6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NPo6DwAAQBAJ",
+   "etag": "iR2Ubisbyuo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NPo6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "King George VI",
+    "subtitle": "A Life From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "In Britain the phrase ‘an heir and a spare’ refers to the imperative for members of the royal family to provide both an heir to take on their title and a spare. In this equation King George VI was ‘the spare’, the second son of King George V and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781520712680"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1520712685"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NPo6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NPo6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=NPo6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NPo6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NPo6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NPo6DwAAQBAJ&rdid=book-NPo6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NPo6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ovo6DwAAQBAJ",
+   "etag": "zDWGJh986aE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ovo6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Middle Ages",
+    "subtitle": "A History From Beginning to End",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "What do you think of when you consider the Middle Ages? Knights in armor and damsels in distress? Vikings plundering monasteries? Religious dissenters burning at the stake? The dead bodies piling up as war, famine, and plague devastated Europe ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781530376247"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1530376246"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ovo6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ovo6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=Ovo6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ovo6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ovo6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ovo6DwAAQBAJ&rdid=book-Ovo6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ovo6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rvo6DwAAQBAJ",
+   "etag": "hrGvTlS+qf8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rvo6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Vikings",
+    "subtitle": "A Concise History of the Vikings",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "The saga of the Vikings rises and falls on the banks of history, ebbing and flowing with popular opinion and whimsical anecdotes. The Vikings are routinely typecast and labeled anywhere from bloodthirsty tyrants to valiant heroes. They have been ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781530376308"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1530376300"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Rvo6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Rvo6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=Rvo6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Rvo6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Rvo6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Rvo6DwAAQBAJ&rdid=book-Rvo6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Rvo6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aNA6DwAAQBAJ",
+   "etag": "gCygfnlrgvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aNA6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Egyptian Mythology",
+    "subtitle": "A Concise Guide to the Ancient Gods and Beliefs of Egyptian Mythology",
+    "authors": [
+     "Hourly History"
+    ],
+    "publisher": "Hourly History",
+    "description": "In this brief introduction to the subject of Egyptian Mythology the author has given a lot of thought to the context of the subject. This makes it an easy read. There is a useful Historical Timeline which allows the reader to follow the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781530376322"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1530376327"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aNA6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aNA6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "previewLink": "http://books.google.co.in/books?id=aNA6DwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aNA6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aNA6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aNA6DwAAQBAJ&rdid=book-aNA6DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aNA6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

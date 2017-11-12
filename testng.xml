@@ -1,0 +1,10 @@
+<suite name="DemoSuite" verbose ="5" parallel="methods" thread-count="10">
+    <test name="DemoTest">
+
+        <classes>
+            <class name="FirstTest"></class>
+            <class name="AdvancedTests"></class>
+            <class name = "HamcrestExamples"></class>
+        </classes>
+    </test>
+</suite>
