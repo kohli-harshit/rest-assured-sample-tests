@@ -3,6 +3,7 @@ import api.PostToken;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jayway.jsonpath.JsonPath;
 import io.restassured.response.Response;
+import io.restassured.specification.ProxySpecification;
 import net.javacrumbs.jsonunit.core.Configuration;
 import net.javacrumbs.jsonunit.core.internal.Diff;
 import org.testng.Assert;
@@ -15,6 +16,8 @@ import javax.xml.bind.JAXBException;
 import java.io.File;
 import java.io.IOException;
 import java.io.StringReader;
+import java.util.HashMap;
+import java.util.Map;
 
 import static io.restassured.RestAssured.given;
 
@@ -22,6 +25,45 @@ import static io.restassured.RestAssured.given;
  * Created by kohlih on 11-11-2017.
  */
 public class AdvancedTests {
+
+    @Test
+    public void CookiesExample(){
+        Map<String,String> requestCookies = new HashMap<String,String>();
+        requestCookies.put("cookie1","cookievalue");
+        requestCookies.put("cookie2","cookievalue");
+        Response response = given().cookies(requestCookies).
+                when().post("some_endpoint").
+                then().assertThat().statusCode(200).extract().response();
+        Map<String,String> responseCookies = response.getCookies();
+        for(Map.Entry entry : responseCookies.entrySet()){
+            System.out.println("Key - " + entry.getKey() + ". Value = " + entry.getValue());
+        }
+    }
+
+    @Test
+    public void ProxyExample(){
+        ProxySpecification proxySpecification = new ProxySpecification("ipaddress",443,"https")
+                .withAuth("username","password");
+
+        given().
+            proxy(proxySpecification).
+        when().
+            post("some_endpoint").
+        then().
+            assertThat().statusCode(200);
+    }
+
+    @Test
+    public void MultipartFormDataExample(){
+        given().
+                multiPart("file", new File("/path/to/file")).
+                formParam("param1","value").
+                formParam("param2","value").
+        when().
+                post("some_endpoint").
+        then().
+                assertThat().statusCode(201);
+    }
 
     @Test
     public void GoogleApiOAuthExample(){
